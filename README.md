@@ -1,2 +1,7 @@
 # 15-Puzzle
-Slide the pieces to get them in order
+
+Controls:
+Move - Arrow keys
+Reset - R
+
+Completed Times saved to Saved_Times.txt
