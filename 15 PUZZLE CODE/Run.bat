@@ -1,0 +1,3 @@
+java -cp .; Main
+pause
+
