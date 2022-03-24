@@ -1,6 +1,7 @@
 # 15-Puzzle
 
 Controls:
+
 Move - Arrow keys
 
 Reset - R
